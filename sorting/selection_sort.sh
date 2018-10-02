@@ -31,7 +31,7 @@ done
 }
 
 
-#                       Variable Initialization                     #
+# Variable Initialization
 
 echo "Enter Numbers to be Sorted : "
 
@@ -40,7 +40,7 @@ read -a ARRAY
 count=${#ARRAY[@]}
 
 
-#                       Main Script Starts Here                     #
+# Main Script Starts Here
 
 echo "---------------------------------------------------------------"
 

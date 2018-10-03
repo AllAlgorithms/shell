@@ -20,7 +20,7 @@
 
 - [Arithmetic Analysis](arithmetic-analysis)
 - [Graphs](graphs)
-- [Math](https://github.com/AllAlgorithms/shell/tree/master/math)
+- [Math](math)
 - [Ciphers](ciphers)
 - [Data Structures](data-structures)
 - [Dynamic Programming](dynamic-programming)
